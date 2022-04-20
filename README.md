@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu-sethi" alt="divyanshu-sethi" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"
 
-- 🔭 I’m currently working on **clone apps**
+-🔭 I’m currently working on **clone apps**
 
 - 🌱 I’m currently learning **WEB-DEV,JAVA + DSA**
 
