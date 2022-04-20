@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu-sethi&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu-sethi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu-sethi" alt="divyanshu-sethi" /></a> </p>
-
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"
 
   🔭 I’m currently working on **clone websites**
