@@ -6,13 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu-sethi" alt="divyanshu-sethi" /></a> </p>
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"
 
-  🔭 I’m currently working on **clone websites**
+  ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **WEB-DEV,JAVA + DSA**
+- 🔭 I’m currently working on **[On my Skill](https://github.com/Divyanshu-Sethi)**
 
-- 🤝 I’m looking for help with **SQL Algorithm**
+- 🌱 I’m currently learning **[B-Tech(Computer Science & Engineering)](https://www.msit.in/),DSA and Web development.**
 
-- 💬 Ask me about **any c++ related query**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Github ](https://github.com/Divyanshu-Sethi)**
 
 - 📫 How to reach me **divyanshu2001.ds@gmail.com**
 
