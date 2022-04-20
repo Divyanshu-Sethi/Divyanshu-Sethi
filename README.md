@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu-sethi&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu-sethi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu-sethi" alt="divyanshu-sethi" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"
+<img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"
 
 - 🔭 I’m currently working on **making some clone apps**
 
