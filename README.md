@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **[B-Tech(Computer Science & Engineering)](https://www.msit.in/),DSA and Web development.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Beginner level projects**
 
 - 👨‍💻 All of my projects are available at **[My Github ](https://github.com/Divyanshu-Sethi)**
 
