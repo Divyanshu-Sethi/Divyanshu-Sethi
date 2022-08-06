@@ -8,11 +8,11 @@
 
   ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[On my Skill](https://github.com/Divyanshu-Sethi)**
+- 🔭 I’m currently working on **[On my Skill](https://www.linkedin.com/in/divyanshu-sethi-ba9149246/)**
 
 - 🌱 I’m currently learning **[B-Tech(Computer Science & Engineering)](https://www.msit.in/),DSA and Web development.**
 
-- 👯 I’m looking to collaborate on **Beginner level projects**
+- 👯 I’m looking to collaborate on **Intermediate level projects**
 
 - 👨‍💻 All of my projects are available at **[My Github ](https://github.com/Divyanshu-Sethi)**
 
