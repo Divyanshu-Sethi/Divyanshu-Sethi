@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[On my Skill](https://www.linkedin.com/in/divyanshu-sethi-ba9149246/)**
 
-- 🌱 I’m currently learning **[B-Tech(Computer Science & Engineering)](https://www.msit.in/),DSA and Web development.**
+- 🌱 I’m currently learning **[B-Tech(Computer Science & Engineering)](https://www.msit.in/) & [DSA and Web development](https://www.pepcoding.com/).**
 
 - 👯 I’m looking to collaborate on **Intermediate level projects**
 
