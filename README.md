@@ -46,3 +46,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu-sethi&show_icons=true&locale=en&layout=compact" alt="divyanshu-sethi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu-sethi&show_icons=true&locale=en" alt="divyanshu-sethi" /></p>
+<br/>
+<br/>
+
+<a href="https://github.com/Divyanshu-Sethi/github-readme-activity-graph"><img alt="Divyanshu-Sethi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Divyanshu-Sethi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
