@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **divyanshu2001.ds@gmail.com**
 
+- 👨‍💻 My resume is available at **[Resume](https://drive.google.com/file/d/1kqPwiDLW7OWfSFzcZ_OQmUOgxPyqXBRm/view?usp=sharing)**
+
 - ⚡ Fun fact **It's harder than a trek**
 
 <h3 align="left">Connect with me:</h3>
