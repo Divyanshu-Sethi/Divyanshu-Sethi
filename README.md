@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **divyanshu2001.ds@gmail.com**
 
-- 👨‍💻 My resume is available at **[Resume](https://drive.google.com/file/d/1kqPwiDLW7OWfSFzcZ_OQmUOgxPyqXBRm/view?usp=sharing)**
+- 👨‍💻 My resume is available at **[Resume](https://drive.google.com/file/d/10lfc59t3iiuE744HfjLg9ghLbtHpLOtC/view?usp=sharing)**
 
 - ⚡ Fun fact **It's harder than a trek**
 
