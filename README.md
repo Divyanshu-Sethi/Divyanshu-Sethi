@@ -51,7 +51,3 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Divyanshu-Sethi/github-readme-activity-graph"><img alt="Divyanshu-Sethi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Divyanshu-Sethi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
