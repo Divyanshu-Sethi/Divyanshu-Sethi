@@ -16,7 +16,7 @@
 - 👨‍💻 My resume is available at **[Resume](https://drive.google.com/file/d/1Cxkt-UUw3J4E4KvWkN9rtshNAtXOAPzi/view?usp=sharing)**
 - ⚡ Fun fact **It's harder than a trek**
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,7 @@
 <a href="https://instagram.com/divyanshu.sethi_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
----
+
 
 ## 🚀 Languages and Tools:
 
@@ -41,7 +41,7 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -49,7 +49,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu-sethi&show_icons=true&locale=en" alt="divyanshu-sethi" /></p>
 
----
+
 
 
 [![Divyanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshu-sethi&bg_color=0d1117&color=37bcf9&line=37bcf9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
