@@ -8,17 +8,15 @@
 
   ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[On my Skill](https://www.linkedin.com/in/divyanshu-sethi-ba9149246/)**
+- 🔭 I’m currently working on **[On my Skill](https://github.com/Divyanshu-Sethi?tab=repositories)**
 
-- 🌱 I have completed **[B-Tech(Computer Science & Engineering)](https://www.msit.in/) & [DSA and Web development](https://www.pepcoding.com/).**
+- 🌱 I have completed **[B-Tech(Computer Science & Engineering)](https://www.msit.in/)**
 
-- 👯 I’m looking to collaborate on **Intermediate level projects**
-
-- 👨‍💻 All of my projects are available at **[My Github ](https://github.com/Divyanshu-Sethi)**
+- 👨‍💻 **[LinkedIn](https://www.linkedin.com/in/divyanshu-sethi0001/)**
 
 - 📫 How to reach me **divyanshu2001.ds@gmail.com**
 
-- 👨‍💻 My resume is available at **[Resume](https://drive.google.com/file/d/10lfc59t3iiuE744HfjLg9ghLbtHpLOtC/view?usp=sharing)**
+- 👨‍💻 My resume is available at **[Resume](https://drive.google.com/file/d/1Cxkt-UUw3J4E4KvWkN9rtshNAtXOAPzi/view?usp=sharing)**
 
 - ⚡ Fun fact **It's harder than a trek**
 
