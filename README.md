@@ -51,8 +51,7 @@
 
 ---
 
-## 🟢 I'm Live Most of the Time!
 
 [![Divyanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshu-sethi&bg_color=0d1117&color=37bcf9&line=37bcf9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-> 📈 This activity graph shows I'm consistently active and live on GitHub!
+
