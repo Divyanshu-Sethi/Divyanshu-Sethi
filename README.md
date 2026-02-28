@@ -21,10 +21,11 @@
 
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="coding gif" width="340" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
-
 ## 🧠 About Me
+
+<table>
+<tr>
+<td width="55%">
 
 ```yaml
 name: Divyanshu Sethi
@@ -34,14 +35,24 @@ focus: Backend Development & System Design
 mantra: "It's harder than a trek 🏔️"
 ```
 
-- 🔭 Working on **[my skill set](https://github.com/Divyanshu-Sethi?tab=repositories)** — always pushing, always learning
-- 🎓 Graduated in **Computer Science & Engineering** from [MSIT](https://www.msit.in/)
-- 💼 Open to **Backend / Full-stack** opportunities
-- 📬 Reach me at **divyanshu2001.ds@gmail.com**
-- 📄 View my **[Resume](https://drive.google.com/file/d/1Cxkt-UUw3J4E4KvWkN9rtshNAtXOAPzi/view?usp=sharing)**
-- ⚡ Fun fact: **It's harder than a trek**
+🔭 &nbsp;Working on **[my skill set](https://github.com/Divyanshu-Sethi?tab=repositories)**
 
-<br clear="right"/>
+🎓 &nbsp;Graduated from **[MSIT Delhi](https://www.msit.in/)**
+
+💼 &nbsp;Open to **Backend / Full-stack** opportunities
+
+📬 &nbsp;**divyanshu2001.ds@gmail.com**
+
+📄 &nbsp;**[View Resume](https://drive.google.com/file/d/1Cxkt-UUw3J4E4KvWkN9rtshNAtXOAPzi/view?usp=sharing)**
+
+⚡ &nbsp;Fun fact: **It's harder than a trek**
+
+</td>
+<td width="45%" align="center">
+  <img alt="coding gif" width="320" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -89,35 +100,12 @@ mantra: "It's harder than a trek 🏔️"
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyanshu-sethi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyanshu-sethi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=37bcf9&icon_color=37bcf9&text_color=a0aec0" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-sethi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=37bcf9&text_color=a0aec0" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-sethi&theme=tokyonight&hide_border=true&background=0d1117&ring=37bcf9&fire=37bcf9&currStreakLabel=37bcf9" />
-</div>
 
 ---
 
